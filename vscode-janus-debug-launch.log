@@ -1,9 +1,9 @@
-INFO |00000.752|JanusDebugSession: launchRequest
-DEBUG|00000.752|JanusDebugSession: my workspace: d:\COMPUTER & INFORMATION TECHNOLOGY\7.7-WEB DEVELOPMENT CCCS 310 764 _FALL2020\VS
-DEBUG|00000.758|DebugAdapterIPC: connect to VS Code extension (sock7064)
-DEBUG|00000.760|DebugAdapterIPC: connected to VS Code extension
-DEBUG|00000.761|DebugAdapterIPC: findURIsInWorkspace
-INFO |00000.859|SourceMap: Additional paths found ["d:\\COMPUTER & INFORMATION TECHNOLOGY\\7.7-WEB DEVELOPMENT CCCS 310 764 _FALL2020\\VS\\.vscode\\WebDevFinalProject\\main.js","d:\\COMPUTER & INFORMATION TECHNOLOGY\\7.7-WEB DEVELOPMENT CCCS 310 764 _FALL2020\\VS\\WebDevFinalProjectAsGivenByT\\main.js"]
-ERROR|00002.911|JanusDebugSession: failed to connect to localhost:3000: ECONNREFUSED
-ERROR|00002.912|JanusDebugSession: remote closed SDS connection due to error
-INFO |00002.916|JanusDebugSession: disconnectRequest
+INFO |00000.552|JanusDebugSession: launchRequest
+DEBUG|00000.553|JanusDebugSession: my workspace: d:\COMPUTER & INFORMATION TECHNOLOGY\7.7-WEB DEVELOPMENT CCCS 310 764 _FALL2020\VS
+DEBUG|00000.557|DebugAdapterIPC: connect to VS Code extension (sock17340)
+DEBUG|00000.558|DebugAdapterIPC: connected to VS Code extension
+DEBUG|00000.559|DebugAdapterIPC: findURIsInWorkspace
+INFO |00000.750|SourceMap: Additional paths found ["d:\\COMPUTER & INFORMATION TECHNOLOGY\\7.7-WEB DEVELOPMENT CCCS 310 764 _FALL2020\\VS\\WebDevFinalProjectAsGivenByT\\main.js","d:\\COMPUTER & INFORMATION TECHNOLOGY\\7.7-WEB DEVELOPMENT CCCS 310 764 _FALL2020\\VS\\.vscode\\WebDevFinalProject\\main.js"]
+ERROR|00002.825|JanusDebugSession: failed to connect to localhost:3000: ECONNREFUSED
+ERROR|00002.826|JanusDebugSession: remote closed SDS connection due to error
+INFO |00002.841|JanusDebugSession: disconnectRequest
